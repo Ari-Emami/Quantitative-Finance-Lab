@@ -1,6 +1,6 @@
-# Quant Finance Lab 🧪
+# Quantitative Finance Lab 🧪
 
-Welcome to **Quant Finance Lab**. This repository serves as the code companion for my YouTube channel, where I apply **Data Science**, **Machine Learning**, and **Financial Engineering** concepts to real-world market data.
+Welcome to **Quantitative Finance Lab**. This repository serves as the code companion for my YouTube channel, where I apply **Data Science**, **Machine Learning**, and **Financial Engineering** concepts to real-world market data.
 
 My goal is to bridge the gap between academic theory (MBA/Quant curriculums) and practical application using Python.
 
